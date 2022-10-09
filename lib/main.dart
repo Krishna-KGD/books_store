@@ -6,6 +6,7 @@ import 'package:book_store/screens/homepage_screen.dart';
 import 'package:book_store/screens/search_page.dart';
 import 'package:flutter/material.dart';
 
+// Main part of application
 void main() {
   runApp(const MyApp());
 }
